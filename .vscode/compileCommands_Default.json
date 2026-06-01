@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\Source\\MissionEarth\\MissionEarth.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\.vscode\\compileCommands_Default\\MissionEarth.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\Source\\MissionEarth\\MissionEarth.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\.vscode\\compileCommands_Default\\MissionEarth.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\Source\\MissionEarth\\MissionEarth.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\.vscode\\compileCommands_Default\\MissionEarth.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\Source\\MissionEarth\\Private\\SpaceMine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\.vscode\\compileCommands_Default\\MissionEarth.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\Source\\MissionEarth\\Public\\SpaceMine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\shookapic\\Documents\\Unreal Projects\\MissionEarth\\.vscode\\compileCommands_Default\\MissionEarth.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
